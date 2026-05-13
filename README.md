@@ -1,12 +1,12 @@
 ## ✨ Hello there! ✨
 I'm an upcoming graduate of BSIT in STI College Caloocan.
 
-## Tech Stack
+## 💡 Tech Stack 💡
 JavaScript
 React
 Node.js
 
-## Languages
+## 💡 Languages 💡
 C#
 Java
 Javascript
@@ -14,7 +14,7 @@ PHP
 HTML
 CSS
 
-## Tools
+## 💡 Tools 💡
 Visual Studio
 Netbeans
 MySQL

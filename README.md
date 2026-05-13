@@ -1,4 +1,4 @@
-## Hello there! 
+##✨ Hello there! ✨
 I'm an upcoming graduate of BSIT in STI College Caloocan.
 
 ## Tech Stack

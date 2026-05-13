@@ -2,25 +2,24 @@
 I'm an upcoming graduate of BSIT in STI College Caloocan.
 
 ## 💡 Tech Stack 💡
-JavaScript
-<br>
-React
-Node.js
+Javascript <br>
+React <br>
+Node.js <br>
 
 ## 💡 Languages 💡
-C#
-Java
-Javascript
-PHP
-HTML
-CSS
+C# <br>
+Java <br>
+Javascript <br>
+PHP <br>
+HTML <br>
+CSS <br>
 
 ## 💡 Tools 💡
-Visual Studio
-Netbeans
-MySQL
-Unity
-
+Visual Studio <br>
+Netbeans <br>
+MySQL <br>
+Unity <br>
+ 
 
 <!--
 **Dyapd/Dyapd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
